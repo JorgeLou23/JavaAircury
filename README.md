@@ -1,0 +1,1 @@
+This program resolves a type of puzzle where the sides of each piece are classified in closed groups of sides which can match together, by flipping each piece and testing if it can fit on the current space. The 0 sides are the border, and might only be placed in the border.
